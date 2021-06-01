@@ -1,6 +1,6 @@
 # Greenave Facial Detection
 
-Greenwave is a C# program for dealing with word pluralization.
+Greenwave is a C# program for dealing with Facial Recognition and object detection.
 
 ## Installation
 
